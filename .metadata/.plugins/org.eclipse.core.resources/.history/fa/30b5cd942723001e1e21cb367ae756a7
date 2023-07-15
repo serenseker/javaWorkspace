@@ -1,0 +1,16 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//object oriented nesne yönelimli ATM projesi
+		
+		//Login Class ı kullanıcı Girişini kontrol edecek
+		
+		//Hesap class ı hesap işlemleri yapacak
+		
+		//ATM ise atmmizi çalıştıracak.
+
+	}
+
+}

@@ -1,0 +1,9 @@
+
+public class HesapData {
+	public String kullanıcı_adi;
+	public String parola;
+	public int bakiye;
+
+	public HesapData() {
+	}
+}

@@ -1,0 +1,13 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		/*Değikenler tanımlandığı kod blokları arasında kullanılır , süslü barantezler dişinda kullanılamaz, hata verir
+		 * 
+		 * 
+		 */
+	}
+
+}

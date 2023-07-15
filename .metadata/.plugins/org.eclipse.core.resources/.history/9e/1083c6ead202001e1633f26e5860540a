@@ -1,0 +1,20 @@
+
+public class Araba {
+
+	private String renk;
+	private int kapılar;
+	private int tekerlekler;
+	private String motor;
+	private String model;
+	
+	
+	public void setModel (String model) {
+		this.model = model;
+	}
+	public String getModel () {
+		return this.model;
+	}
+	
+	
+	
+}

@@ -1,0 +1,10 @@
+
+public class Account {
+	
+	private String hesapNo;
+	private double bakiye;
+	private String isim;
+	private String email;
+	private String telefonNo;
+
+}

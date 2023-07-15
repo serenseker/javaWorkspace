@@ -1,0 +1,7 @@
+
+public class Login {
+
+	public void boolean login(Hesap hesap){
+		
+	}
+}

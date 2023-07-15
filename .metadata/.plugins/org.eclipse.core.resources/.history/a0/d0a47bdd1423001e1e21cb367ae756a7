@@ -1,0 +1,7 @@
+
+public class Hesap {
+
+	private String kullanıcı_adi;
+	private String parola;
+	private int bakiye;
+}

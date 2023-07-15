@@ -1,0 +1,15 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Araba araba1 = new Araba();
+		
+		araba1.setModel("renault");
+		
+		System.out.print("arabanın modeli:" + araba1.getModel());
+
+	}
+
+}

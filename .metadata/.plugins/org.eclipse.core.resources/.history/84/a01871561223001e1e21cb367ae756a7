@@ -1,0 +1,6 @@
+
+public class Main {
+
+	
+	Account account1 = new Account("seren","sef@gmail.com","325325");
+}
